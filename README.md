@@ -141,13 +141,13 @@ O planejamento e a execução de todo o ciclo de vida deste projeto foram gerenc
 
 🌿 Estrutura de Versionamento (GitFlow)
 O repositório foi organizado e mantido seguindo o padrão de ramificação GitFlow:
-
+```bash
 main: Código estável e pronto para produção.
 
 develop: Branch de integração para desenvolvimento.
 
 feature/*: Branches específicas para novas funcionalidades (ex: feature/yolo-finetuning, feature/api-setup).
-
+```
 📹 Vídeo de Apresentação e Demonstração
 🔗 Link do Vídeo Demonstrativo: Assistir no YouTube / Google Drive
 
