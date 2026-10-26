@@ -87,12 +87,13 @@ pip install -r requirements.txt
 ### 4. Executar a API FastAPI
 Com o ambiente ativo e os modelos (yolo11n.pt e best.pt) na pasta raiz, inicie o servidor com Uvicorn:
 
-Bash
+```bash
 uvicorn main:app --reload
 O servidor estará acessível em: http://127.0.0.1:8000
-
+```
 🧪 Como Testar a API
 Opção 1: Via Documentação Interativa (Swagger UI)
+
 Com o servidor ativo, abra o navegador e acesse: http://127.0.0.1:8000/docs
 
 Expanda o endpoint POST /detect.
