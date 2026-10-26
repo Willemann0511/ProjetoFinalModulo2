@@ -65,10 +65,10 @@ A pipeline de inferência processa os dados de forma isolada e combinada conform
 - Git instalado.
 
 ### 2. Clonar o Repositório
-
+```bash
 git clone [https://github.com/Willemann0511/ProjetoFinalModulo2.git]
 cd ProjetoFinalModulo2
-
+```
 
 ### 3. Instalar Dependências
 Recomenda-se criar um ambiente virtual antes de instalar as dependências:
@@ -129,7 +129,9 @@ Opção 2: Exemplo de Resposta JSON da API
     }
   ]
 }
-```bash
+
+```
+
 🛠️ Metodologia Ágil e Gerenciamento (Trello)
 O planejamento e a execução de todo o ciclo de vida deste projeto foram gerenciados utilizando a metodologia Kanban no Trello, estruturado nas colunas: Backlog, To Do, Doing, Blocked, Review e Done.
 
