@@ -73,7 +73,7 @@ cd ProjetoFinalModulo2
 ### 3. Instalar Dependências
 Recomenda-se criar um ambiente virtual antes de instalar as dependências:
 
-
+```bash
 # Ativar no Windows:
 venv\Scripts\activate
 
@@ -82,6 +82,7 @@ source venv/bin/activate
 
 # Instalar os pacotes
 pip install -r requirements.txt
+```
 
 ### 4. Executar a API FastAPI
 Com o ambiente ativo e os modelos (yolo11n.pt e best.pt) na pasta raiz, inicie o servidor com Uvicorn:
@@ -135,7 +136,7 @@ Opção 2: Exemplo de Resposta JSON da API
 🛠️ Metodologia Ágil e Gerenciamento (Trello)
 O planejamento e a execução de todo o ciclo de vida deste projeto foram gerenciados utilizando a metodologia Kanban no Trello, estruturado nas colunas: Backlog, To Do, Doing, Blocked, Review e Done.
 
-📋 Quadro Público do Trello: Clique aqui para acessar o Quadro do Trello
+📋 Quadro Público do Trello: [Clique aqui para acessar o Quadro do Trello](https://trello.com/b/6TLqKxu0/quadro-projeto-final)
 
 🌿 Estrutura de Versionamento (GitFlow)
 O repositório foi organizado e mantido seguindo o padrão de ramificação GitFlow:
@@ -149,9 +150,3 @@ feature/*: Branches específicas para novas funcionalidades (ex: feature/yolo-fi
 📹 Vídeo de Apresentação e Demonstração
 🔗 Link do Vídeo Demonstrativo: Assistir no YouTube / Google Drive
 
-
----
-
-### ⚠️ Lembre-se de atualizar estes 3 links antes de dar `commit`:
-1. **Link do Roboflow:** Altere o trecho `[https://universe.roboflow.com/](https://universe.roboflow.com/)` para o link direto do seu dataset.
-2. **Link do Trello:** Altere `[https://trello.com/b/SEU-QUADRO-AQUI](https://trello.com/b/SEU-QUADRO-AQUI)` para
