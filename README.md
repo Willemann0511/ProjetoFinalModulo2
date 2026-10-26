@@ -103,6 +103,7 @@ Faça o upload de uma imagem no campo file.
 Clique em Execute e visualize a resposta JSON estruturada.
 
 Opção 2: Exemplo de Resposta JSON da API
+```bash
 {
   "status": "success",
   "detections": [
@@ -128,6 +129,7 @@ Opção 2: Exemplo de Resposta JSON da API
     }
   ]
 }
+```bash
 🛠️ Metodologia Ágil e Gerenciamento (Trello)
 O planejamento e a execução de todo o ciclo de vida deste projeto foram gerenciados utilizando a metodologia Kanban no Trello, estruturado nas colunas: Backlog, To Do, Doing, Blocked, Review e Done.
 
