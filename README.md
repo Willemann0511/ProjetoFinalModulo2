@@ -67,7 +67,7 @@ A pipeline de inferência processa os dados de forma isolada e combinada conform
 ### 2. Clonar o Repositório
 ```bash
 git clone [https://github.com/SEU-USUARIO/NOME-DO-SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-SEU-REPOSITORIO.git)
-cd NOME-DO-SEU-REPOSITORIO
+cd NOME-DO-SEU-REPOSITORIO```
 
 ### 3. Instalar Dependências
 Recomenda-se criar um ambiente virtual antes de instalar as dependências:
