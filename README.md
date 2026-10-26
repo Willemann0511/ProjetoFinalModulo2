@@ -106,7 +106,6 @@ Faça o upload de uma imagem no campo file.
 Clique em Execute e visualize a resposta JSON estruturada.
 
 Opção 2: Exemplo de Resposta JSON da API
-JSON
 {
   "status": "success",
   "detections": [
