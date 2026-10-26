@@ -54,7 +54,7 @@ A pipeline de inferência processa os dados de forma isolada e combinada conform
 ## 📊 Dataset e Treinamento
 
 - **Dataset de Armas (Roboflow):** O modelo especializado foi treinado e validado utilizando imagens anotadas da plataforma Roboflow.
-- **Acesso ao Dataset:** https://universe.roboflow.com/dfyv7/guns-detection-security-camera-o62yq
+- **Acesso ao Dataset:** [Clique aqui para acessar o Dataset no Roboflow](https://universe.roboflow.com/)
 
 ---
 
@@ -73,9 +73,6 @@ cd ProjetoFinalModulo2
 ### 3. Instalar Dependências
 Recomenda-se criar um ambiente virtual antes de instalar as dependências:
 
-Bash
-# Criar ambiente virtual
-python -m venv venv
 
 # Ativar no Windows:
 venv\Scripts\activate
